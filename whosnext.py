@@ -30,15 +30,12 @@ ROULETTE = True
 
 presenters_per_meeting = 2
 
-current_mc = 'Dana van der Pol'
+current_mc = 'Matthijs van den Broek'
 current_members = {
     "Benjamin Gonzalez": "2024-09-01",
     "Christoph Konrad": "2022-10-01",
     "Jason Moore": "2019-09-01",
-    "Looka Schoneveld": "2024-11-01",
     "Neville Nieman": "2024-08-01",
-    "Dana van der Pol": "2025-06-03",
-    "Quinten Bongers": "2025-08-22",
     "Stephen Lin": "2025-10-21",
     "Luna Compen": "2025-11-11",
     "Siva Machavaram": "2025-11-11",
@@ -47,6 +44,7 @@ current_members = {
     "Philipp Jonas": "2026-01-16",
     "Joris Scholten": "2026-02-10",
     "Matthijs van den Broek": "2026-03-24",
+    "Daniel Body": "2026-05-06",
 }
 with open("presentations.json", "r", encoding="utf-8") as file:
     presentations = json.load(file)
