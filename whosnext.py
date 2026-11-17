@@ -35,7 +35,6 @@ current_members = {
     "Benjamin Gonzalez": "2024-09-01",
     "Christoph Konrad": "2022-10-01",
     "Jason Moore": "2019-09-01",
-    "Neville Nieman": "2024-08-01",
     "Stephen Lin": "2025-10-21",
     "Siva Machavaram": "2025-11-11",
     "Joris Scholten": "2026-02-10",
@@ -44,7 +43,7 @@ current_members = {
     "Stijn Wolters": "2026-09-22",
     "Matthew Molenaar": "2026-11-17",
     "Harm Verhoeff": "2026-11-17",
-    "Dena Luiks": "2026-11-17"
+    "Dena Luiks": "2026-12-01"
 }
 with open("presentations.json", "r", encoding="utf-8") as file:
     presentations = json.load(file)
